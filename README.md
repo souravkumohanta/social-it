@@ -3,9 +3,13 @@ An Android browser,with screen lock and content filtering for ads
 
 ### screen shots
 UI
+
+
 <img src="ui app.jpg" width="500" > 
   
   
-LOCK 
+LOCK
+
+
 <img src="lock.jpg" width="500">
 
